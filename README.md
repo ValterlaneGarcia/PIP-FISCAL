@@ -1,2 +1,3 @@
-# PIP-FISCAL
- Pip Fiscal, é um progama desenvolvido em JavaScript, para correção de erros em arquivos Fortes.
+# PIP FISCAL
+ O Pip Fiscal é um programa que automatiza a correção de alguns erros que ocorrem na maioria das vezes em arquivos fiscais Fortes.
+
