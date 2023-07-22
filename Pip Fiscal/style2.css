@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;1,300&family=Roboto+Condensed&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.Geral {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Esquerda {
+    width: 50vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.Esquerda p {
+    font-size: 35px;
+}
+
+#ImgNotaFiscal {
+    width: 35vw;
+}
+
+
+.Direita {
+    background: #ff6505;
+    width: 50vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+
+.Direita > h1{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: #ffffff;
+    font-size: 60px;
+}
+
+.correcao {
+    background: white;
+    width: 35vw;
+    height: 85vh;
+    border-radius: 2%;
+    box-shadow: 10px 5px 20px black;
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    flex-direction: column;
+}
+
+textarea {
+    background-color: slategray;
+    color: white;
+}
+
+#ErAqui {
+    font-family: sans-serif;
+  }
+
+
+
+.my-toast-title {
+    font-family: "Open Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+  }
+  
